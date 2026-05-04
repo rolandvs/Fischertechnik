@@ -15,9 +15,9 @@ In the 3D directory you will find two `NOT VERIFIED YET` blocks that serve as ba
 
 No part has been printed yet to see if the measures are correct (lacking a 3D printer).
 
-![30](3D/baustein_30.png)
+![30](./3D/baustein_30.png)
 
-![15](3D/baustein_15.png)
+![15](./3D/baustein_15.png)
 
 
 # KiCad
