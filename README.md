@@ -36,9 +36,19 @@ Fischertechnik provides a micro:bit interface with two H-bridges [link](https://
 
 ![IO-F5](Documentation/FT_IO_F5.png)
 
+
 The contact points can fit a connector directly. For my use it is to expensive to buy the kit, especially while having the parts here in the junkbox.
 
-`WORK IN PROGRESS`
+This project is inspired by the work of [Didiacta's Education Projects](http://www.didacta.hr/)
+
+
+Currently made:
+- Symbols for the micro:bit connector
+- Symbol for the 2.5mm plugs (also used by Märklin)
+
+Starting to add more interfaces... `WORK IN PROGRESS`
+
+![MB-](Documentation/MB_H_WIP.png)
 
 
 ## STM32 Controller
