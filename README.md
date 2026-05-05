@@ -4,7 +4,7 @@ This repository holds my experiments with Fischertechnik.
 
 ![Fish](Documentation/fish_logo.png)
 
-Recently I got some old building blocks and accessoires. It is like reliving my youth. Today I can appreciate the powerfullness of the blocks much more and now I can also add thing I like to it.
+Recently I got some old building blocks and accessoires. It is like reliving my youth. Today I can appreciate the powerfulness of the blocks much more and now I can also add things I like to it.
 
 So now I started this repo. First thing was to create 3D printed blocks that can be used together with the original stuff. The purpose is not to duplicate it, but
 be able to add small (electronics based) blocks w/ or w/o pogo pins, small PCB, having sensors and other stuff.
