@@ -32,7 +32,11 @@ Just for test and fun a dual LED PCB that can hold two different colors or the s
 
 ## H-Bridge micro:bit
 
-Fischertechnik provides an micro:bit interface with two H-bridges. The contact points can fit a connector directly. For my use it is to expensive to buy the kit, especially while having the parts here in the junkbox.
+Fischertechnik provides a micro:bit interface with two H-bridges [link](https://www.fischertechnik.biz/fischertechnik-education-starter-set-for-micro-bit). 
+
+![IO-F5](Documentation/FT_IO_F5.png)
+
+The contact points can fit a connector directly. For my use it is to expensive to buy the kit, especially while having the parts here in the junkbox.
 
 `WORK IN PROGRESS`
 
@@ -62,8 +66,14 @@ A crane lifting a load and bring it to its specific location. It involves using 
 `WORK IN PROGRESS`
 
 
+# Other Sources
+
+[Fischertechnikclub Nederland](https://docs.fischertechnikclub.nl/) </br>
+
+[Fischertechnik Database](https://ftdb.eu/) </br>
 
 
 
+# Epilog
 
 Copyright (c)2026 by Roland van Straten. All Rights Reserved. Commercial in Confidence.
