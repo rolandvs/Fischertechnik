@@ -39,7 +39,7 @@ Fischertechnik provides a micro:bit interface with two H-bridges [link](https://
 
 The contact points can fit a connector directly. For my use it is to expensive to buy the kit, especially while having the parts here in the junkbox.
 
-This project is inspired by the work of [Didiacta's Education Projects](http://www.didacta.hr/)
+This project is inspired by the work of [Didacta's Education Projects](http://www.didacta.hr/)
 
 
 Currently made:
@@ -48,7 +48,7 @@ Currently made:
 
 Starting to add more interfaces... `WORK IN PROGRESS`
 
-![MB-](Documentation/MB_H_WIP.png)
+![MB-H](Documentation/MB_H_WIP.png)
 
 
 ## STM32 Controller
@@ -67,13 +67,13 @@ In this section some projects will be documented.
 
 The elevator is a project that has two multi-floor elevators where the users can press a button per floor. Depending on the traffic, the correct elevator is selected to either move up or down, with its intent to do this ASAP.
 
-`WORK IN PROGRESS`
+Go to [Elevator Project](Projects/Elevator/README.md) - `WORK IN PROGRESS`
 
 ## Crane
 
 A crane lifting a load and bring it to its specific location. It involves using Fuzzy Logic to compensate for the pendulum effect.
 
-`WORK IN PROGRESS`
+Go to [Crane Project](Projects/Crane/README.md) - `WORK IN PROGRESS`
 
 
 # Other Sources
@@ -84,6 +84,7 @@ A crane lifting a load and bring it to its specific location. It involves using 
 
 
 
-# Epilog
 
+_____
+_____
 Copyright (c)2026 by Roland van Straten. All Rights Reserved. Commercial in Confidence.
