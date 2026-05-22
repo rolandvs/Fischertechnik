@@ -30,6 +30,10 @@ Just for test and fun a dual LED PCB that can hold two different colors or the s
 
 ![LED](3D/Baustein_15_LED.png)
 
+## Baustein_151_SENSOR
+
+Re-purposing a _line follower optical sensor_ for use as a switch.
+
 ## H-Bridge micro:bit
 
 Fischertechnik provides a micro:bit interface with two H-bridges [link](https://www.fischertechnik.biz/fischertechnik-education-starter-set-for-micro-bit). 
@@ -49,6 +53,16 @@ Currently made:
 Starting to add more interfaces... `WORK IN PROGRESS`
 
 ![MB-H](Documentation/MB_H_WIP.png)
+
+## H-Bridge variants
+
+### Tibbo Box Module
+
+A nice Linux platform with a casing that allows modules. `WORK IN PROGRESS`
+
+### SMD
+
+Also started designing with a nice Toshiba IC that saves some room (SMD). See KiCad project...
 
 
 ## STM32 Controller
@@ -82,8 +96,9 @@ Go to [Crane Project](Projects/Crane/README.md) - `WORK IN PROGRESS`
 
 [Fischertechnik Database](https://ftdb.eu/) </br>
 
+** Very nice website, good mix of STEM, IoT and Fischertechnik!** Nice magazines for downloading!!
 
-
+[Tech Ecke](https://www.tech-ecke.de/index_quereinstieg.htm?/basteleien/fischertechnik.htm)
 
 _____
 _____

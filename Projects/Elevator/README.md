@@ -7,9 +7,11 @@ A first single elevator just to get into the mood...
 
 ![FS-ELEVATOR](Documentation/ft_elevator.png)
 
-Already collecting various data from different sources about elevators and algorithms... 
+Updated a little...
 
-**>>>VERY MUCH WORK IN PROGRESS ==== MORE TO FOLLOW <<<**
+![Tripple Elevator](Documentation/TrippleElevator.png)
+
+_Already collecting various data from different sources about elevators and algorithms... _
 
 
 # Collected Background
@@ -69,6 +71,18 @@ For maximum throughput, implement a Destination Control System (if possible), wh
 
 # Pater-noster
 Interesting type of elevator that exists both horizontally and vertically is the [paternoster](https://liftforhome.in/paternoster-elevator/). 
+
+# Use CAN?
+
+For lift control there are standards. One of them (CAN-CiA 417) is published by the **[Can in Automation](https://www.can-cia.org)** organisation. However, the complexity to add is **to much** and goes far beyond the goals of the project. Just to satisfy your interest:
+
+[CIA-417 PROFILE](https://www.can-cia.org/can-knowledge/cia-417-series-profile-for-lift-control-systems)
+
+[CANopen Lift](https://en.canopen-lift.org/wiki/Main_Page)
+
+[CANopenTerm](https://canopenterm.de/)
+
+
 
 
 # References
