@@ -1,0 +1,96 @@
+(footprint "Marklin_7132_7135_Plug"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Maerklin 7132/7135 old-style round plug (Brawa 3001-3059 compatible), pin dia 2.5mm, direct PCB insertion. Drill 2.7mm for solder, pad dia 4.5mm.")
+	(tags "Marklin Maerklin 7132 7135 Brawa 3001 3052 plug connector model-railway 2.5mm")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "bbf4c593-e501-470b-a427-a47ed999959b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Marklin_7132_7135"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "a39899bd-6ac7-4447-8f71-b513bf5c6986")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5af68fa8-67b6-4139-9295-177c0f0b7da6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b1b60fc-fef8-4d50-accb-be7850357323")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 2.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "dbe48176-11a7-4c7d-972e-b97ad1092ed3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ae65ea30-5504-406d-a186-35b2f2664322")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7866a079-c05e-4a4a-9ec5-4a83dfb7135b")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 4.5 4.5)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ccef48de-4de1-49b9-a408-bd175a62c6a7")
+	)
+	(embedded_fonts no)
+)

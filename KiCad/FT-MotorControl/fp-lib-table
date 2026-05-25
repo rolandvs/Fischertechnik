@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connectors_4UCON") (type "KiCad") (uri "/Users/roland/workspace/Fischertechnik/KiCad/kicad_microbit_connector-master/Connectors_4UCON.pretty") (options "") (descr ""))
+	(lib (name "Fischertechnik") (type "KiCad") (uri "${KIPRJMOD}/Fischertechnik.pretty") (options "") (descr ""))
+)
