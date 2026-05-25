@@ -1,0 +1,45 @@
+(footprint "Marklin_7132_7135_Plug"
+  (layer "F.Cu")
+  (descr "Maerklin 7132/7135 old-style round plug (Brawa 3001-3059 compatible), pin dia 2.5mm, direct PCB insertion. Drill 2.7mm for solder, pad dia 4.5mm.")
+  (tags "Marklin Maerklin 7132 7135 Brawa 3001 3052 plug connector model-railway 2.5mm")
+  (attr through_hole)
+
+  (fp_text reference "REF**"
+    (at 0 -4)
+    (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Marklin_7132_7135"
+    (at 0 4)
+    (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_circle
+    (center 0 0)
+    (end 2.5 0)
+    (layer "F.SilkS")
+    (width 0.15)
+  )
+
+  (fp_circle
+    (center 0 0)
+    (end 2.5 0)
+    (layer "F.Fab")
+    (width 0.1)
+  )
+
+  (fp_circle
+    (center 0 0)
+    (end 3 0)
+    (layer "F.CrtYd")
+    (width 0.05)
+  )
+
+  (pad "1" thru_hole circle
+    (at 0 0)
+    (size 4.5 4.5)
+    (drill 2.7)
+    (layers "*.Cu" "*.Mask")
+  )
+)
